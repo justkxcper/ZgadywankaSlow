@@ -27,7 +27,7 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/button5"
+                android:id="@+id/nextBt"
                 android:layout_width="wrap_content"
                 android:layout_height="61dp"
                 android:backgroundTint="#5aaba9"
@@ -43,7 +43,7 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/button9"
+                android:id="@+id/changeBt"
                 android:layout_width="wrap_content"
                 android:layout_height="60dp"
                 android:layout_weight="1"
